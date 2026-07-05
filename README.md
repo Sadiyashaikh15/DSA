@@ -41,6 +41,7 @@ Improve problem-solving skills and prepare for coding interviews.
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Sadiyashaikh15/DSA/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/Sadiyashaikh15/DSA/tree/master/0605-can-place-flowers) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sadiyashaikh15/DSA/tree/master/1301-number-of-paths-with-max-score) |
 ## Dynamic Programming
@@ -68,4 +69,8 @@ Improve problem-solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Sadiyashaikh15/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Sadiyashaikh15/DSA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
