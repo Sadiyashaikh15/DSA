@@ -56,10 +56,12 @@ Improve problem-solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Sadiyashaikh15/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/Sadiyashaikh15/DSA/tree/master/0443-string-compression) |
 ## String
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Sadiyashaikh15/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/Sadiyashaikh15/DSA/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Sadiyashaikh15/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Greedy
 |  |
