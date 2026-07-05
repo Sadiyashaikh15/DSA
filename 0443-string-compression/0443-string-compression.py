@@ -1,0 +1,28 @@
+from typing import List
+
+class Solution:
+    def compress(self, chars: List[str]) -> int:
+        n = len(chars)
+        write = 0
+        read = 0
+
+        while read < n:
+            ch = chars[read]
+            count = 0
+
+            # Count consecutive characters
+            while read < n and chars[read] == ch:
+                read += 1
+                count += 1
+
+            # Write character
+            chars[write] = ch
+            write += 1
+
+            # Write count if greater than 1
+            if count > 1:
+                for digit in str(count):
+                    chars[write] = digit
+                    write += 1
+
+        return write
