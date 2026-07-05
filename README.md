@@ -50,4 +50,12 @@ Improve problem-solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/Sadiyashaikh15/DSA/tree/master/1301-number-of-paths-with-max-score) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Sadiyashaikh15/DSA/tree/master/0151-reverse-words-in-a-string) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Sadiyashaikh15/DSA/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
