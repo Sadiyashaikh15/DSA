@@ -41,6 +41,7 @@ Improve problem-solving skills and prepare for coding interviews.
 ## Array
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/Sadiyashaikh15/DSA/tree/master/0605-can-place-flowers) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sadiyashaikh15/DSA/tree/master/1301-number-of-paths-with-max-score) |
 ## Dynamic Programming
 |  |
@@ -58,4 +59,8 @@ Improve problem-solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Sadiyashaikh15/DSA/tree/master/0151-reverse-words-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/Sadiyashaikh15/DSA/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
