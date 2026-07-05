@@ -59,8 +59,13 @@ Improve problem-solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Sadiyashaikh15/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Sadiyashaikh15/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Greedy
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Sadiyashaikh15/DSA/tree/master/0605-can-place-flowers) |
+## Math
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Sadiyashaikh15/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
