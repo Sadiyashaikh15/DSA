@@ -190,8 +190,10 @@ Suggestions, improvements, and optimized approaches are always welcome.
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sadiyashaikh15/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [1768-merge-strings-alternately](https://github.com/Sadiyashaikh15/DSA/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sadiyashaikh15/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [1768-merge-strings-alternately](https://github.com/Sadiyashaikh15/DSA/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
