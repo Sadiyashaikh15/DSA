@@ -181,6 +181,7 @@ Suggestions, improvements, and optimized approaches are always welcome.
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/Sadiyashaikh15/DSA/tree/master/1288-remove-covered-intervals) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sadiyashaikh15/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Sorting
 |  |
 | ------- |
