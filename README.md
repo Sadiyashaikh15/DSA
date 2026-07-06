@@ -174,3 +174,15 @@ Suggestions, improvements, and optimized approaches are always welcome.
 *"Success in DSA isn't about solving thousands of problems overnight—it's about solving one problem better than yesterday."*
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1288-remove-covered-intervals](https://github.com/Sadiyashaikh15/DSA/tree/master/1288-remove-covered-intervals) |
+## Sorting
+|  |
+| ------- |
+| [1288-remove-covered-intervals](https://github.com/Sadiyashaikh15/DSA/tree/master/1288-remove-covered-intervals) |
+<!---LeetCode Topics End-->
