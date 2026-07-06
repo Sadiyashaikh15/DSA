@@ -185,4 +185,12 @@ Suggestions, improvements, and optimized approaches are always welcome.
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/Sadiyashaikh15/DSA/tree/master/1288-remove-covered-intervals) |
+## Two Pointers
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Sadiyashaikh15/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+## String
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Sadiyashaikh15/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
