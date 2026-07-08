@@ -196,8 +196,14 @@ Suggestions, improvements, and optimized approaches are always welcome.
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sadiyashaikh15/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/Sadiyashaikh15/DSA/tree/master/1768-merge-strings-alternately) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sadiyashaikh15/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Math
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sadiyashaikh15/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sadiyashaikh15/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sadiyashaikh15/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
