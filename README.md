@@ -180,6 +180,7 @@ Suggestions, improvements, and optimized approaches are always welcome.
 ## Array
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Sadiyashaikh15/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [1288-remove-covered-intervals](https://github.com/Sadiyashaikh15/DSA/tree/master/1288-remove-covered-intervals) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sadiyashaikh15/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Sorting
@@ -206,4 +207,8 @@ Suggestions, improvements, and optimized approaches are always welcome.
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sadiyashaikh15/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Greedy
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Sadiyashaikh15/DSA/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
