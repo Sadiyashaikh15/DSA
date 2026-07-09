@@ -183,6 +183,7 @@ Suggestions, improvements, and optimized approaches are always welcome.
 | [0334-increasing-triplet-subsequence](https://github.com/Sadiyashaikh15/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [1288-remove-covered-intervals](https://github.com/Sadiyashaikh15/DSA/tree/master/1288-remove-covered-intervals) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sadiyashaikh15/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Sadiyashaikh15/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
 |  |
 | ------- |
@@ -211,4 +212,20 @@ Suggestions, improvements, and optimized approaches are always welcome.
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Sadiyashaikh15/DSA/tree/master/0334-increasing-triplet-subsequence) |
+## Hash Table
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Sadiyashaikh15/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Binary Search
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Sadiyashaikh15/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Union-Find
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Sadiyashaikh15/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Sadiyashaikh15/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
