@@ -182,6 +182,7 @@ Suggestions, improvements, and optimized approaches are always welcome.
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Sadiyashaikh15/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [1288-remove-covered-intervals](https://github.com/Sadiyashaikh15/DSA/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/Sadiyashaikh15/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sadiyashaikh15/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sadiyashaikh15/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sadiyashaikh15/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -189,6 +190,7 @@ Suggestions, improvements, and optimized approaches are always welcome.
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/Sadiyashaikh15/DSA/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/Sadiyashaikh15/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sadiyashaikh15/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Two Pointers
 |  |
@@ -219,6 +221,7 @@ Suggestions, improvements, and optimized approaches are always welcome.
 ## Hash Table
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/Sadiyashaikh15/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sadiyashaikh15/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
 |  |
