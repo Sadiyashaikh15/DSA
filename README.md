@@ -181,6 +181,7 @@ Suggestions, improvements, and optimized approaches are always welcome.
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Sadiyashaikh15/DSA/tree/master/0334-increasing-triplet-subsequence) |
+| [1260-shift-2d-grid](https://github.com/Sadiyashaikh15/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Sadiyashaikh15/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Sadiyashaikh15/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sadiyashaikh15/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -295,4 +296,12 @@ Suggestions, improvements, and optimized approaches are always welcome.
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sadiyashaikh15/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Sadiyashaikh15/DSA/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Sadiyashaikh15/DSA/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
