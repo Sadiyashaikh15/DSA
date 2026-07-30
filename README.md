@@ -180,6 +180,7 @@ Suggestions, improvements, and optimized approaches are always welcome.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sadiyashaikh15/DSA/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/Sadiyashaikh15/DSA/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Sadiyashaikh15/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sadiyashaikh15/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -208,6 +209,7 @@ Suggestions, improvements, and optimized approaches are always welcome.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sadiyashaikh15/DSA/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/Sadiyashaikh15/DSA/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sadiyashaikh15/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Sadiyashaikh15/DSA/tree/master/0392-is-subsequence) |
@@ -247,6 +249,7 @@ Suggestions, improvements, and optimized approaches are always welcome.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sadiyashaikh15/DSA/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/Sadiyashaikh15/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sadiyashaikh15/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sadiyashaikh15/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
