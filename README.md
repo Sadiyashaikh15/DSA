@@ -180,6 +180,7 @@ Suggestions, improvements, and optimized approaches are always welcome.
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Sadiyashaikh15/DSA/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Sadiyashaikh15/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sadiyashaikh15/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Sadiyashaikh15/DSA/tree/master/1260-shift-2d-grid) |
@@ -207,6 +208,7 @@ Suggestions, improvements, and optimized approaches are always welcome.
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Sadiyashaikh15/DSA/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sadiyashaikh15/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/Sadiyashaikh15/DSA/tree/master/1768-merge-strings-alternately) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sadiyashaikh15/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
