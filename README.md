@@ -226,6 +226,7 @@ Suggestions, improvements, and optimized approaches are always welcome.
 | [0345-reverse-vowels-of-a-string](https://github.com/Sadiyashaikh15/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Sadiyashaikh15/DSA/tree/master/0392-is-subsequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sadiyashaikh15/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sadiyashaikh15/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/Sadiyashaikh15/DSA/tree/master/1768-merge-strings-alternately) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sadiyashaikh15/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sadiyashaikh15/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -361,4 +362,5 @@ Suggestions, improvements, and optimized approaches are always welcome.
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Sadiyashaikh15/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sadiyashaikh15/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
