@@ -3,13 +3,16 @@ class Solution:
         left = 0
         zeros = 0
         ans = 0
-         
+
         for right in range(len(nums)):
             if nums[right] == 0:
                 zeros += 1
+
             while zeros > 1:
                 if nums[left] == 0:
                     zeros -= 1
-                left += 1
+                left += 1      # <-- This line was missing
+
             ans = max(ans, right - left)
+
         return ans
