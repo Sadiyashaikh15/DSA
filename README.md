@@ -183,6 +183,7 @@ Suggestions, improvements, and optimized approaches are always welcome.
 | [0011-container-with-most-water](https://github.com/Sadiyashaikh15/DSA/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/Sadiyashaikh15/DSA/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Sadiyashaikh15/DSA/tree/master/0334-increasing-triplet-subsequence) |
+| [0486-predict-the-winner](https://github.com/Sadiyashaikh15/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sadiyashaikh15/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Sadiyashaikh15/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sadiyashaikh15/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -239,6 +240,7 @@ Suggestions, improvements, and optimized approaches are always welcome.
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Sadiyashaikh15/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sadiyashaikh15/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sadiyashaikh15/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sadiyashaikh15/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -297,6 +299,7 @@ Suggestions, improvements, and optimized approaches are always welcome.
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Sadiyashaikh15/DSA/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/Sadiyashaikh15/DSA/tree/master/0486-predict-the-winner) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sadiyashaikh15/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sadiyashaikh15/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sadiyashaikh15/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -370,4 +373,12 @@ Suggestions, improvements, and optimized approaches are always welcome.
 | [1004-max-consecutive-ones-iii](https://github.com/Sadiyashaikh15/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sadiyashaikh15/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sadiyashaikh15/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Sadiyashaikh15/DSA/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Sadiyashaikh15/DSA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
