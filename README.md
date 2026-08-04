@@ -204,6 +204,7 @@ Suggestions, improvements, and optimized approaches are always welcome.
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sadiyashaikh15/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sadiyashaikh15/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sadiyashaikh15/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3731-find-missing-elements](https://github.com/Sadiyashaikh15/DSA/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -216,6 +217,7 @@ Suggestions, improvements, and optimized approaches are always welcome.
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sadiyashaikh15/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sadiyashaikh15/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sadiyashaikh15/DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Sadiyashaikh15/DSA/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -282,6 +284,7 @@ Suggestions, improvements, and optimized approaches are always welcome.
 | [3312-sorted-gcd-pair-queries](https://github.com/Sadiyashaikh15/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sadiyashaikh15/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sadiyashaikh15/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3731-find-missing-elements](https://github.com/Sadiyashaikh15/DSA/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
