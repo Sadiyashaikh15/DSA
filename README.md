@@ -188,6 +188,7 @@ Suggestions, improvements, and optimized approaches are always welcome.
 | [0643-maximum-average-subarray-i](https://github.com/Sadiyashaikh15/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Sadiyashaikh15/DSA/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sadiyashaikh15/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1207-unique-number-of-occurrences](https://github.com/Sadiyashaikh15/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/Sadiyashaikh15/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Sadiyashaikh15/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Sadiyashaikh15/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -280,6 +281,7 @@ Suggestions, improvements, and optimized approaches are always welcome.
 ## Hash Table
 |  |
 | ------- |
+| [1207-unique-number-of-occurrences](https://github.com/Sadiyashaikh15/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Sadiyashaikh15/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Sadiyashaikh15/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Sadiyashaikh15/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
