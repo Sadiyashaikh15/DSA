@@ -188,6 +188,7 @@ Suggestions, improvements, and optimized approaches are always welcome.
 | [0643-maximum-average-subarray-i](https://github.com/Sadiyashaikh15/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Sadiyashaikh15/DSA/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sadiyashaikh15/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/Sadiyashaikh15/DSA/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/Sadiyashaikh15/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/Sadiyashaikh15/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Sadiyashaikh15/DSA/tree/master/1288-remove-covered-intervals) |
@@ -252,6 +253,7 @@ Suggestions, improvements, and optimized approaches are always welcome.
 | ------- |
 | [0486-predict-the-winner](https://github.com/Sadiyashaikh15/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sadiyashaikh15/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1140-stone-game-ii](https://github.com/Sadiyashaikh15/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sadiyashaikh15/DSA/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sadiyashaikh15/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sadiyashaikh15/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -270,6 +272,7 @@ Suggestions, improvements, and optimized approaches are always welcome.
 | ------- |
 | [0724-find-pivot-index](https://github.com/Sadiyashaikh15/DSA/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sadiyashaikh15/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/Sadiyashaikh15/DSA/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/Sadiyashaikh15/DSA/tree/master/1732-find-the-highest-altitude) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sadiyashaikh15/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sadiyashaikh15/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -320,6 +323,7 @@ Suggestions, improvements, and optimized approaches are always welcome.
 | ------- |
 | [0392-is-subsequence](https://github.com/Sadiyashaikh15/DSA/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Sadiyashaikh15/DSA/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/Sadiyashaikh15/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sadiyashaikh15/DSA/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sadiyashaikh15/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sadiyashaikh15/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -405,14 +409,17 @@ Suggestions, improvements, and optimized approaches are always welcome.
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Sadiyashaikh15/DSA/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/Sadiyashaikh15/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sadiyashaikh15/DSA/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Sadiyashaikh15/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sadiyashaikh15/DSA/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Sadiyashaikh15/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sadiyashaikh15/DSA/tree/master/1406-stone-game-iii) |
 ## Backtracking
 |  |
