@@ -200,6 +200,7 @@ Suggestions, improvements, and optimized approaches are always welcome.
 | [1679-max-number-of-k-sum-pairs](https://github.com/Sadiyashaikh15/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Sadiyashaikh15/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sadiyashaikh15/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Sadiyashaikh15/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Sadiyashaikh15/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sadiyashaikh15/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sadiyashaikh15/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -243,6 +244,7 @@ Suggestions, improvements, and optimized approaches are always welcome.
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sadiyashaikh15/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sadiyashaikh15/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/Sadiyashaikh15/DSA/tree/master/1768-merge-strings-alternately) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Sadiyashaikh15/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sadiyashaikh15/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sadiyashaikh15/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sadiyashaikh15/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -392,6 +394,7 @@ Suggestions, improvements, and optimized approaches are always welcome.
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Sadiyashaikh15/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sadiyashaikh15/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -444,4 +447,8 @@ Suggestions, improvements, and optimized approaches are always welcome.
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Sadiyashaikh15/DSA/tree/master/1510-stone-game-iv) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Sadiyashaikh15/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
