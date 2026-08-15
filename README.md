@@ -210,6 +210,7 @@ Suggestions, improvements, and optimized approaches are always welcome.
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sadiyashaikh15/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sadiyashaikh15/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sadiyashaikh15/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sadiyashaikh15/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Sadiyashaikh15/DSA/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -345,6 +346,7 @@ Suggestions, improvements, and optimized approaches are always welcome.
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sadiyashaikh15/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sadiyashaikh15/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sadiyashaikh15/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Depth-First Search
 |  |
 | ------- |
