@@ -200,6 +200,7 @@ Suggestions, improvements, and optimized approaches are always welcome.
 | [1679-max-number-of-k-sum-pairs](https://github.com/Sadiyashaikh15/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Sadiyashaikh15/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sadiyashaikh15/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Sadiyashaikh15/DSA/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sadiyashaikh15/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Sadiyashaikh15/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sadiyashaikh15/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -264,6 +265,7 @@ Suggestions, improvements, and optimized approaches are always welcome.
 | [1406-stone-game-iii](https://github.com/Sadiyashaikh15/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Sadiyashaikh15/DSA/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sadiyashaikh15/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Sadiyashaikh15/DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sadiyashaikh15/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sadiyashaikh15/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sadiyashaikh15/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -290,6 +292,7 @@ Suggestions, improvements, and optimized approaches are always welcome.
 | [0011-container-with-most-water](https://github.com/Sadiyashaikh15/DSA/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/Sadiyashaikh15/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sadiyashaikh15/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2029-stone-game-ix](https://github.com/Sadiyashaikh15/DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sadiyashaikh15/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sadiyashaikh15/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sadiyashaikh15/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -376,6 +379,7 @@ Suggestions, improvements, and optimized approaches are always welcome.
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/Sadiyashaikh15/DSA/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sadiyashaikh15/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sadiyashaikh15/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sadiyashaikh15/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -428,18 +432,21 @@ Suggestions, improvements, and optimized approaches are always welcome.
 | [1140-stone-game-ii](https://github.com/Sadiyashaikh15/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sadiyashaikh15/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Sadiyashaikh15/DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Sadiyashaikh15/DSA/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Sadiyashaikh15/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sadiyashaikh15/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Sadiyashaikh15/DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Sadiyashaikh15/DSA/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Sadiyashaikh15/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sadiyashaikh15/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Sadiyashaikh15/DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Sadiyashaikh15/DSA/tree/master/2029-stone-game-ix) |
 ## Backtracking
 |  |
 | ------- |
@@ -448,6 +455,7 @@ Suggestions, improvements, and optimized approaches are always welcome.
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Sadiyashaikh15/DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Sadiyashaikh15/DSA/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
