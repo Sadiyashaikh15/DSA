@@ -250,6 +250,7 @@ Suggestions, improvements, and optimized approaches are always welcome.
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sadiyashaikh15/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sadiyashaikh15/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/Sadiyashaikh15/DSA/tree/master/1768-merge-strings-alternately) |
+| [1927-sum-game](https://github.com/Sadiyashaikh15/DSA/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sadiyashaikh15/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sadiyashaikh15/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sadiyashaikh15/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -268,6 +269,7 @@ Suggestions, improvements, and optimized approaches are always welcome.
 | [1140-stone-game-ii](https://github.com/Sadiyashaikh15/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sadiyashaikh15/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Sadiyashaikh15/DSA/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/Sadiyashaikh15/DSA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sadiyashaikh15/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Sadiyashaikh15/DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sadiyashaikh15/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -298,6 +300,7 @@ Suggestions, improvements, and optimized approaches are always welcome.
 | [0334-increasing-triplet-subsequence](https://github.com/Sadiyashaikh15/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sadiyashaikh15/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Sadiyashaikh15/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/Sadiyashaikh15/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Sadiyashaikh15/DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sadiyashaikh15/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sadiyashaikh15/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -446,6 +449,7 @@ Suggestions, improvements, and optimized approaches are always welcome.
 | [1140-stone-game-ii](https://github.com/Sadiyashaikh15/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sadiyashaikh15/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Sadiyashaikh15/DSA/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/Sadiyashaikh15/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Sadiyashaikh15/DSA/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
